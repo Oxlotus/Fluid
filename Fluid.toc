@@ -1,0 +1,8 @@
+## Author: Oxlotus-Area 52
+## Interface: 81000
+## Title: Fluid
+## Name: Fluid
+## Notes: Mod to track the TRUE loot tables of creatures.
+## Version: 1.0.0
+Embeds.xml
+Fluid.lua
